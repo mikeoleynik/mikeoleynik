@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-:computer: I’m currently working in [FunBoxTeam](https://funbox.ru).  
-🔭 I’m looking for help with my project [edctn](https://github.com/mikeoleynik/edctn).
+:computer: I’m currently working in [SpectrumTeam](https://www.spectrumit.ru/).  
+🔭 I’m looking for help with my project [askserega](https://github.com/mikeoleynik/askserega).
 
 ### 📫 Contacts:
 - [mikeoleynik.com](https://mikeoleynik.com)
